@@ -1,0 +1,5 @@
+com\mapper\TpmTestLogMapper.class
+com\service\impl\TpmTestLogServiceImpl.class
+com\service\TpmTestLogService.class
+com\controller\TestController.class
+com\model\TpmTestLog.class
